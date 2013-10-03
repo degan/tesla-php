@@ -12,7 +12,7 @@ Tesla PHP 5+ library for REST API Interaction. Based on: http://docs.timdorr.api
 
     <?php
     include("TeslaAPI.php");
-    $tesla = new TeslaAPI('email@address.com','password', $car);
+    $tesla = new TeslaAPI('email@address.com','password');
 
 ### Unlock Command
 
