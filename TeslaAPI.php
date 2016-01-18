@@ -254,7 +254,7 @@ class TeslaAPI
      */
     public function get_remote_start()
     {
-        return $this->api_call("/command/remote_start_drive", array('password' => $password));
+        return $this->api_call("/command/remote_start_drive", array('password' => $this->password));
     }
 
     /**
