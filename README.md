@@ -5,6 +5,8 @@ tesla-php
 
 Tesla PHP 5+ library for REST API Interaction. Based on: http://docs.timdorr.apiary.io/
 
+You will need to fill in the Client ID and Secret with a valid ID and Secret. Check the apiary docs for more info.
+
 
 ## Usage
 
